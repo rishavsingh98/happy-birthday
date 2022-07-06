@@ -3,13 +3,14 @@ html {
 }
 
 body {
-  margin: 0;
-  font-family: "Work Sans", sans-serif;
   background-image: url('img/pallabi3.jpg');
-  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+  height: 100%;
  }
 
 .container {
