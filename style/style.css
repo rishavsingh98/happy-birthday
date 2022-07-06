@@ -6,7 +6,6 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
   background-image: url('img/pallabi3.jpg');
-  filter: blur(8px);
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
